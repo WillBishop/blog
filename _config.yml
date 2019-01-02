@@ -6,7 +6,7 @@
 name: Will Bishop
 
 # Short bio or description (displayed in the header)
-description: 16 year old WatchKit developer from Adelaide, Australia
+description: I'm a 16 year old Developer from Adelaide, Australia.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/1019853881876992000/86HcBVND_400x400.jpg
@@ -19,7 +19,7 @@ avatar: https://pbs.twimg.com/profile_images/1019853881876992000/86HcBVND_400x40
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:16
   flickr:
   github: /jekyll-now
   instagram:
